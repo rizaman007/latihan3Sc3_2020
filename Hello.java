@@ -3,5 +3,6 @@ class Hello{
 		System.out.println("Judul");  	
 		System.out.println("RMN: Aplikasi Java 2020");  
 		System.out.println("--- *** ---"); 
+		System.out.println("END"); 
 	}  
 }  
