@@ -5,5 +5,6 @@ class Hello{
 		System.out.println("--- *** ---"); 
 		System.out.println("END"); 
 		System.out.println("User 2"); 
+		System.out.println("User 1"); 
 	}  
 }  
